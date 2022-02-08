@@ -28,6 +28,11 @@ function getRandomInt(min, max) {
       confettiNumber: getRandomInt(50, 100),
     },
     {
+      emojis: ['💩'],
+      emojiSize: 100,
+      confettiNumber: getRandomInt(50, 100),
+    },
+    {
       confettiNumber: getRandomInt(100, 500),
       confettiRadius: 8,
     },
